@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.3",
+  "name": "CreatorShaderDemos",
+  "uuid": "44fe9ed8-cf17-44c7-9f74-5e5892dddacc",
+  "id": "0a287040-e0b4-4f86-903f-fc1c372495e9",
+  "isNew": false
+}
