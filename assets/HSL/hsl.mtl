@@ -1,6 +1,6 @@
 {
   "__type__": "cc.Material",
-  "_name": "hsv",
+  "_name": "hsl",
   "_objFlags": 0,
   "_native": "",
   "_effectAsset": {
@@ -14,7 +14,7 @@
         "USE_HSL": true
       },
       "props": {
-        "u_dH": 0,
+        "u_dH": 50,
         "u_dS": 0,
         "u_dL": 0
       }

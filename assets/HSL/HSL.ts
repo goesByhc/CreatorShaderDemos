@@ -29,7 +29,7 @@ export default class HSV extends cc.Component {
         this.materialController.updateMaterial(this.hslUbBO);
     }
 
-}
+} 
 
 class HSLUBO implements MaterialUBO{
     u_dH: number = 0;
