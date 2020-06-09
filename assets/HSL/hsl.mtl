@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.Material",
+  "_name": "hsv",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "941bb03d-e5ab-4a75-be67-a429f69012d2"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_HSL": true
+      },
+      "props": {
+        "u_dH": 0,
+        "u_dS": 0,
+        "u_dL": 0
+      }
+    }
+  }
+}
